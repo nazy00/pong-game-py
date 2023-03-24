@@ -1,6 +1,6 @@
 # pong-game-py
 
-The pong game in python where the computer always wins
+The pong game in python
 
 ## Dependencies
 
